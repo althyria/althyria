@@ -3,12 +3,6 @@
 > *"Do not go gentle into that good night,  
 > Rage, rage against the dying of the light"*
 
-#### Creator [@sajkbd](https://sajkbd.io)
-
-- ⌨️ I’m currently working on ergonomic split keyboard designs.
-- 📝 I write articles on [https://sajenim.dev](https://sajenim.dev)
-- 💬 Ask me about keyboard layouts.
-
 #### Research Direction
 
 Developing reflective technology and trauma-informed systems for survivors and children.
