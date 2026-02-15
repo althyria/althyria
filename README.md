@@ -16,24 +16,6 @@ Developing reflective technology and trauma-informed systems for survivors and c
 
 **Technical foundation:** Systems programming, declarative infrastructure, functional programming.
 
-#### Media Stack:
-<p align="left">
-    <a href="https://jellyfin.org/" target="_blank" rel="noreferrer"> <img src="https://cdn.jsdelivr.net/gh/walkxcode/dashboard-icons/svg/jellyfin.svg" alt="jellyfin" height="30" /></a>
-    <a href="https://sonarr.tv/" target="_blank" rel="noreferrer"> <img src="https://cdn.jsdelivr.net/gh/walkxcode/dashboard-icons/svg/sonarr.svg" alt="sonarr" height="30" /></a>
-    <a href="https://radarr.video/" target="_blank" rel="noreferrer"> <img src="https://cdn.jsdelivr.net/gh/walkxcode/dashboard-icons/svg/radarr.svg" alt="radarr" height="30" /></a>
-    <a href="https://lidarr.audio/" target="_blank" rel="noreferrer"> <img src="https://cdn.jsdelivr.net/gh/walkxcode/dashboard-icons/svg/lidarr.svg" alt="lidarr" height="30" /></a>
-    <a href="https://www.qbittorrent.org/" target="_blank" rel="noreferrer"> <img src="https://cdn.jsdelivr.net/gh/walkxcode/dashboard-icons/svg/qbittorrent.svg" alt="qbittorrent" height="30" /></a>
-</p>
-
-#### Selfhosted Services:
-<p align="left">
-    <a href="https://forgejo.org/" target="_blank" rel="noreferrer"> <img src="https://cdn.jsdelivr.net/gh/walkxcode/dashboard-icons/svg/forgejo.svg" alt="forgejo" height="30" /></a>
-    <a href="https://github.com/thomiceli/opengist" target="_blank" rel="noreferrer"> <img src="https://cdn.jsdelivr.net/gh/walkxcode/dashboard-icons/svg/opengist.svg" alt="opengist" height="30" /></a>
-    <a href="https://www.musicpd.org/" target="_blank" rel="noreferrer"> <img src="https://cdn.jsdelivr.net/gh/PapirusDevelopmentTeam/papirus_icons/src/apps_mpd.svg" alt="mpd" height="30" /></a>
-    <a href="https://www.lighttpd.net/" target="_blank" rel="noreferrer"> <img src="https://cdn.jsdelivr.net/gh/homarr-labs/dashboard-icons/svg/lighttpd.svg" alt="lighttpd" height="30" /></a>
-    <a href="https://www.minecraft.net/en-us/" target="_blank" rel="noreferrer"> <img src="https://cdn.jsdelivr.net/gh/walkxcode/dashboard-icons/svg/minecraft.svg" alt="minecraft" height="30" /></a>
-</p>
-
 #### Infrastructure and Tools:
 <p align="left">
     <a href="https://nixos.org/" target="_blank" rel="noreferrer"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nixos/nixos-original.svg" alt="nixos" height="30" /></a>
